@@ -16,5 +16,5 @@ Pod::Spec.new do |s|
   s.source_files = 'Spartan/Classes/**/*'
   
   s.dependency 'AlamoRecord', '~> 2.3.0'
-  
+  s.dependency 'AlamofireObjectMapper', '~> 6.2.0'
 end
