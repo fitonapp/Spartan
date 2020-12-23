@@ -15,5 +15,7 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Spartan/Classes/**/*'
   
-  s.dependency 'AlamoRecord', '~> 2.3.0'
+  
+
+ 'AlamoRecord', '~> 2.3.0'
 end
